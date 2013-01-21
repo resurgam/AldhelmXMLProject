@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="tei.rng" type="xml"?>
+<?xml-stylesheet type="text/css" href="aldhelm.css" title="Original"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Aldhelm</title>
+				<author>
+					<name>anonymous</name>
+				</author>
+				<respStmt>
+					<resp></resp>
+					<name>anonymous</name>
+				</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>David Carlton, 2012; NOTE: This edition is in its testing phase, 
+					and will eventually include markup for all aspects of accidence and etymology, as well as translation. 
+					The spots of color-coding will eventually become hover-over links that will display all pertinent information for words and phrases.</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl>
+					<author>
+						<name>anonyous</name>
+					</author>
+					<title>Aldhelm</title>
+					<pubPlace>England</pubPlace>
+					<publisher>manuscript</publisher>
+					<date>tenth century</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>   <lg type="head"><l>NOTE: verbs are RED; nouns are BLUE; pronouns are GREEN</l></lg>
+			<head type="main"><w type="noun">ALDHELM</w></head>
+			<lg type = "macaronic">				
+				<l><seg num="1">þus <w type="pronoun" case="dative">me</w> <w type="verb" lemma="settan"><m type="prefix">ge</m>sett<m type="suffix">e</m></w></seg><seg num="2">      sanctus et iustus</seg></l>
+				<l><seg num="1"><w type="noun" case="nominative">beorn</w> <w type="noun" case="genitive">boca</w> gleaw</seg><seg num="2">      bonus <w type="noun" case="nominative">auctor</w></seg></l>
+				<l><seg num="1"><w type="noun" case="nominative">ealdelm</w> æþele <w type="noun" case="nominative">sceop</w></seg><seg num="2">      etiam <w type="verb" lemma="sum">fuit</w></seg></l>
+				<l><seg num="1">ipselos on <w type="noun" case="dative">æðele</w></seg><seg num="2">      <w type="noun" case="genitive">angolsexna</w></seg></l>
+				<l><seg num="1"><w type="noun" case="nominative">byscop</w> on <w type="noun" case="dative">bretene</w></seg><seg num="2">      <w type="noun" case="accusative">biblos</w> <w type="pronoun" case="nominative">ic</w> nu <w type="verb" lemma="sculan">sceal</w></seg></l>
+				<l><seg num="1"><w type="noun" case="nominative">pon<c type="addition">d</c>us</w> et <w type="noun" case="nominative">pondus</w></seg><seg num="2">      pleno cum <w type="noun" case="dative">sensu</w></seg></l>
+				<l><seg num="1"><w type="noun" case="genitive">geonges</w> <w type="noun" case="accusative">geanoðe</w></seg><seg num="2">      <w type="noun" case="genitive">geomres</w> iamiamque</seg></l>
+				<l><seg num="1"><w type="verb" lemma="secgan">secgan</w> <w type="noun" case="accusative">soð</w> nalles leas</seg><seg num="2">      þæt <w type="pronoun" case="dative">him</w> symle <w type="verb" lemma="beon">wæs</w></seg></l>
+				<l><seg num="1"><w type="noun" case="nominative">euthenia</w></seg><seg num="2">      oftor on <w type="noun" case="dative">fylste</w></seg></l>
+
+
+				<l><seg num="1"><w type="noun" case="nominative">æne</w> on <w type="noun" case="dative">eðle</w></seg><seg num="2">      ec ðon ðe se <w type="verb" lemma="beon">is</w></seg></l>
+				<l><seg num="1"><w type="noun" case="accusative">yfel</w> on <w type="verb" lemma="secgan"><m type="prefix">ge</m>sæ<m type="suffix">d</m></w></seg><seg num="2">      etiam nusquam</seg></l>
+				<l><seg num="1">ne <w type="verb" lemma="sculan">sceal</w> <w type="noun" case="genitive">ladigan</w></seg><seg num="2">      <w type="noun" case="nominative">labor</w> <w type="pronoun" case="accusative">quem</w> <w type="verb" lemma="teneo">tenet</w></seg></l>
+				<l><seg num="1"><w type="noun" case="accusative">encratea</w></seg><seg num="2">      ac <w type="pronoun" case="nominative">he</w> ealneg <w type="verb" lemma="sculan">sceal</w></seg></l>
+				<l><seg num="1"><w type="noun" case="accusative">boethia</w></seg><seg num="2">      <w type="verb" lemma="biddan">biddan</w> georne</seg></l>
+				<l><seg num="1">þurh <w type ="pronoun" case="genitive">his</w> <w type="noun" case="genitive">modes</w> <w type="noun" case="dative">gemind</w></seg><seg num="2">      micro in <w type="noun" case="dative">cosmo</w></seg></l>
+   				<l><seg num="1">þæt <w type="pronoun" case="dative">him</w> <w type="noun" case="nominative">drihten</w> <w type="verb" lemma="gyfan">gyfe</w></seg><seg num="2">      <w type="noun" case="accusative">dinams</w> on <w type="noun" case="dative">eorðan</w></seg></l>
+  			        <l><seg num="1"><w type="noun" case="genitive">fortis</w> <w type="noun" case="accusative">factor</w></seg><seg num="2">      þæt <w type="pronoun" case="nominative">he</w> forð simle</seg></l>
+
+</lg>
+				
+</body>
+	</text>
+</TEI>

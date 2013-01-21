@@ -1,0 +1,22 @@
+To do:
+
+1.) Finish identifying and tagging all conjunctions, adjectives, adverbs, interjections, articles, etc. with their own colours
+
+2.) Translate text, host as .txt file.
+
+3.) Create hover-over links that will reveal translations / grammatical info for all words and clauses.
+
+4.) Include full translation as a link on a separate xml page using Roman font.
+
+
+
+Long term goals:
+
+1.) Create an index page that links to both main text and translation
+
+2.) Perhaps display text and translation side-by-side
+
+3.) Perhaps make it so one can "turn" the page to see translation / original text
+
+4.) completely mark-up (and clean) all tags pertaining to grammar, suffixes, prefixes, infixes, vowel mutation, etc.
+
